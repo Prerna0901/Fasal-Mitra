@@ -2,26 +2,11 @@
 
 ## Description
 
-This repository contains the code and resources for a plant disease detection project. The project aims to identify diseases in plants using computer vision and machine learning techniques.
+This repository contains the code and resources for a Fasal Mitra project. The project aims to simplify agricultural practices, such as:
 
-## Table of Contents
+1. Auto plant watering system
+2. Plant disease detection
+3. Animal intrusion detection
+4. Android app containing all the information about crop generation, weather forecast details etc.
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- Utilizes computer vision and machine learning to identify plant diseases.
-- Provides accurate disease detection using state-of-the-art algorithms.
-- User-friendly interface for uploading images and getting results.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/akshayram1/plantdiseasedetectionmaster.git
-   cd plantdiseasedetectionmaster
+The auto watering and animal intrusion detection systems are powered by the Internet of Things, and the plant disease detection and crop information portal are powered by an Android App.
