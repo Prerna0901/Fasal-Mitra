@@ -1,4 +1,4 @@
-# plantdiseasedetectionmaster
+# Plant Disease Detection
 
 ## Description
 
